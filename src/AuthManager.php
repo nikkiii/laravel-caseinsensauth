@@ -1,5 +1,6 @@
 <?php namespace Nikkii\CaseInsensAuth;
 
+use Illuminate\Auth\Guard;
 use Illuminate\Support\Manager;
 
 class AuthManager extends Manager {

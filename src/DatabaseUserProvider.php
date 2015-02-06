@@ -1,5 +1,6 @@
 <?php namespace Nikkii\CaseInsensAuth;
 
+use Illuminate\Auth\GenericUser;
 use Illuminate\Contracts\Auth\UserProvider;
 use Illuminate\Database\ConnectionInterface;
 use Illuminate\Contracts\Hashing\Hasher as HasherContract;
